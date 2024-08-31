@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "name":"Air",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-transparent-grey-green-full-rim-round-lenskart-air-signia-la-e14963-c3-eyeglasses_g_3201_06_oct22.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Air",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-gold-pink-full-rim-cat-eye-john-jacobs-tr-flex-jj-e-14409-c6-eyeglasses__dsc5656.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"GlassAir",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14360-C1-Eyeglasses_J_1837.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Glass_one",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/sky-blue-full-rim-square-lenskart-air-fusion-la-e13069-c2-eyeglasses_lenskart-air-la-e13033-c2-eyeglasses_eyeglasses_g_3587_2_05_july23.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"john",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16116-c2-eyeglasses_g_8777_19_10_2023.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"Hustler",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-wayfarer_csvfile-1706676595673-217431_(1).jpg"
+
+    },
+    {
+        "id":7,
+        "name":"EyeGlasses",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static1.lenskart.com/media/desktop/img/Apr22/a2.png"
+
+    },
+    {
+        "id":8,
+        "name":"sunGlasses",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static1.lenskart.com/media/desktop/img/Apr22/b2.png"
+
+    },
+    {
+        "id":9,
+        "name":"ScreenGlasses",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static1.lenskart.com/media/desktop/img/Apr22/d2.png"
+
+    },
+    {
+        "id":10,
+        "name":"Glass_one",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":""
+
+    },
+    {
+        "id":11,
+        "name":"LensOlive",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/olive-full-rim-wayfarer-lenskart-hustlr-lh-e16985-w-c2-eyeglasses_img_2273_14march24.jpg"
+
+    },
+    {
+        "id":12,
+        "name":"John jacob",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/crystal-full-rim-wayfarer-lenskart-hustlr-lh-e16985-w-c5-eyeglasses_img_2262_14march24.jpg"
+
+    },
+    {
+        "id":13,
+        "name":"Vincet",
+        "description":" features a new design and edge-to-edge Super Retina ",
+        "price":999,
+        "featured_image":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-ful-ram-ale-metl-stlbr-c1-eyeglasaas_g_4921.jpg"
+
+    }
+]
